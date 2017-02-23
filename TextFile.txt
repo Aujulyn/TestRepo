@@ -1,3 +1,7 @@
 Making a change
 change 2
+<<<<<<< HEAD
 Some local changes to PC1
+=======
+PC2 change
+>>>>>>> ba8dbeda7988ddcfdf84899bc35eaaebe85b766a
